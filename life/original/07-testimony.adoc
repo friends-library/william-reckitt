@@ -53,12 +53,18 @@ where a living testimony was borne to the truth, and to the satisfaction of many
 
 Signed in and on behalf of the said meeting, held the 16th of the third month, 1770, by
 
+[.signed-section-signature]
 John Robbins, John Copeland, Thomas Reckitt, David Hopkins, Jonathan Nainby,
 George Kitching, Pearson Smith, John Pearson, Joseph Burton, John Wright, Jr.
+
+[.postscript]
+====
 
 The foregoing testimony concerning our dear friend William Reckitt, deceased,
 was read and approved in our quarterly meeting held at Lincoln,
 the 4th of the fourth month, 1770, and signed in and on behalf thereof, by
 
-John Massey, Jr.
-Clerk.
+====
+
+[.signed-section-signature]
+John Massey, __Jr. Clerk.__

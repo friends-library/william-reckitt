@@ -15,8 +15,13 @@ They show the care he had for their welfare, when far absent,
 and bespeak the fervency of his love.
 The first was from France, while he was a prisoner there, and is as follows.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Carhaix, in France, the 23rd of the Twelfth month, 1756.
 
+[.salutation]
 Dear wife and children,
 
 This comes to inform you of my welfare, and though outwardly confined,
@@ -43,10 +48,18 @@ but have the liberty of the town and fields to walk in when I please.
 I hope to receive a letter from you in a little time.
 I most dearly and tenderly salute you, and bid you farewell.
 
+[.signed-section-signature]
 William Reckitt.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, the 29th of the Fifth month, 1758.
 
+[.salutation]
 Dear wife and children,
 
 I came here this day,
@@ -82,10 +95,18 @@ may in mercy bless you all, and take delight in you, so as to tender your hearts
 and favour you often with his power and living presence, is the sincere prayer of yours,
 in that love that neither distance nor length of time can separate.
 
+[.signed-section-signature]
 William Reckitt.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Newport, in Rhode Island, the 5th of the Eleventh month, 1758.
 
+[.salutation]
 My dear wife,
 
 These may inform thee and the children,
@@ -142,10 +163,18 @@ in a manner that will find acceptance,
 is the pathetic breathing of thine in that love that changeth not,
 including our dear children.
 
+[.signed-section-signature]
 William Reckitt.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, the 12th of the First month, 1759.
 
+[.salutation]
 Dear love,
 
 I have received several letters from home,
@@ -169,10 +198,18 @@ My dear love to thee and the children, sympathizing with you in great nearness,
 I dearly salute thee and them, in that which never changeth.
 Thine in the Lord.
 
+[.signed-section-signature]
 William Reckitt.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, the 15th of the Sixth month, 1759.
 
+[.salutation]
 My dear wife and children,
 
 I am in the perfect enjoyment of health, except some pain in my breast,
@@ -207,7 +244,11 @@ and in that which is to come life everlasting.
 As a most affectionate husband and tender father, I dearly salute you,
 and bid you farewell.
 
+[.signed-section-signature]
 William Reckitt.
+
+[.postscript]
+====
 
 P+++.+++ S. I desire my children would not give way to
 accompany themselves with those that are not friends,
@@ -218,8 +259,17 @@ I am afraid lest you should not do well;
 then I shall be grieved and sorrowful if I should live to see you again,
 instead of being comforted and rejoicing in you.
 
+====
+
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Christopher`'s, the 9th of the Tenth month, 1759.
 
+[.salutation]
 Dear wife and children,
 
 These are to inform you, and all inquiring friends and relations,
@@ -249,7 +299,10 @@ tender in mercy to all that faithfully serve, worship and obey him.
 
 My spirit salutes thee and dear children, etc.
 
+[.signed-section-signature]
 William Reckitt.
+
+--
 
 Our friend having left no further account of his travels after this voyage,
 until his second embarkation for America,
@@ -303,6 +356,8 @@ hath induced me to prepare these accounts for more general service,
 in which I have had real satisfaction and comfort;
 and if they afford the same to the reader, my end is answered.
 
-Thomas Wagstaffe.
+[.signed-section-signature]
+Thomas Wagstaffe
 
+[.signed-section-context-close]
 London, 29th of the Seventh month, 1776.
