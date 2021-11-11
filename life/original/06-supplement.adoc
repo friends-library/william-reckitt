@@ -334,7 +334,11 @@ Not only at particular opportunities, but often, when absent,
 has he imparted of the goodness and mercy of the Lord to his soul,
 and also been helpful in counsel by letters.
 In one of the last I had from him, he expressed himself thus:
-"`The sap of life lies very deep in the root,
+
+[.embedded-content-document.letter]
+--
+
+The sap of life lies very deep in the root,
 and that must be waited for in those pinching times I have met with;
 and yet I have a comfortable hope raised in me of late, that all will be well in the end,
 the prospect of which to me, hath seemed exceedingly pleasant, and, if safe,
@@ -345,7 +349,9 @@ but have ever looked on myself as one of the weakest of his servants;
 yet have endeavoured to come up in faithful obedience to his will made manifest in me,
 and in this now I have great peace and an assurance
 of an inheritance that will never fade away,
-if I continue in the way of well-doing to the end of the race.`"
+if I continue in the way of well-doing to the end of the race.
+
+--
 
 His illness was very short; he was taken with a fit of the ague at night,
 and next morning, about four, departed this life, the 6th of the fourth month, 1769,
